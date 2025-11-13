@@ -11,7 +11,7 @@
 - **Scrum** — como QA atua dentro de times ágeis  
 - **Postman** — testes de API (meu foco atual)  
 - **Cypress** — automação Web moderna  
-- **Git & GitHub** — versionamento e portfólio profissional  
+- **Git & GitHub** — versionamento  
 
 ---
 
