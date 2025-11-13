@@ -1,13 +1,36 @@
-## Olá, Eu sou o Fabrício! 👋
+👋 Olá! Eu sou o Fabrício William
 
-<!--
+Analista de Qualidade de Software (QA) em formação — focado em entendimento prático, pensamento crítico e testes orientados a risco.
 
-- 🌱 Atualmente estou estudando Js
-- 📫 Contate-me no e-mail: willianfabricio3@gmail.com
--->
+💡 Hoje eu estudo para atuar como QA de forma completa: testes manuais, API, automação e fundamentos ágeis.
 
+🧪 O que estou estudando agora
+
+ISTQB CTFL (Syllabus) — base de raciocínio do QA
+
+Scrum — como QA atua dentro de times ágeis
+
+Postman — testes de API (meu foco atual)
+
+Cypress — automação Web moderna
+
+Git & GitHub — versionamento e portfólio profissional
+
+📁 Meu Portfólio de QA
+
+➡️ Portfólio completo no GitHub:
+📌 Syllabus → Scrum → Postman → Cypress
+(Construído como um “mapa de carreira de QA”, organizado por módulos)
+https://github.com/willianfabricio3-png/Portfolio-QA-Fabricio-
+
+🛠️ Tecnologias que uso
+
+Linguagens e Ferramentas:
+JavaScript • Git • Postman • Cypress
+
+Estudando em breve:
+SQL • Selenium • Jenkins • Appium
+
+📈 Estatísticas do GitHub
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willianfabricio3-png)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-</div>
