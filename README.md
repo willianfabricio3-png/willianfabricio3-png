@@ -63,7 +63,9 @@ Meu objetivo é construir uma base sólida de QA e complementar com projetos pr�
 ## 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabrício-william-345618355/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willianfabricio3@gmail.com)
+<a href="mailto:williamfabricio9@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 
 
