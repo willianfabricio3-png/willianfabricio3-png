@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Fabrício William
 
-**Analista de Qualidade de Software (QA)** em formação — focado em **entendimento prático**, pensamento crítico e testes orientados a risco.
+**💻 Analista de Qualidade de Software (QA)** em formação — focado em **entendimento prático**, pensamento crítico e testes orientados a risco.
 
 💡 Hoje eu estudo para atuar como QA **de forma completa**: testes manuais, API, automação e fundamentos ágeis.
 
